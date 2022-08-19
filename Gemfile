@@ -5,6 +5,7 @@ gem "jekyll", "4.2.0"
 
 # katex
 gem "execjs"
+gem "jekyll-katex"
 
 # octokit
 gem 'octokit'
