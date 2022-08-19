@@ -92,12 +92,21 @@
 						<a class="mx-1" href="/team/">team</a>
 						</li>
 
+						<!--
 						{% if page.categories.first == 'outreach' %}
 						<li class="nav-link active">
 						{% else %}
 						<li class="nav-link">
 						{% endif %}
 						<a class="mx-1" href="/page/outreach/">outreach</a>
+						</li>-->
+
+						{% if page.categories.first == 'code' %}
+						<li class="nav-link active">
+						{% else %}
+						<li class="nav-link">
+						{% endif %}
+						<a class="mx-1" href="/projects/">code</a>
 						</li>
 
 						<!--
