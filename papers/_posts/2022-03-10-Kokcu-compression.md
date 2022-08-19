@@ -9,6 +9,8 @@ arxiv   : 2108.03282
 doi     : 10.1103/PhysRevA.105.032420
 image   : /images/papers/kokcu_adiabatic.png
 ncsu    : True
+github  : https://github.com/QuantumComputingLab
+pdf     : /pdfs/papers/kokcu-compression.pdf
 ---
 
 # Abstract

@@ -4,20 +4,23 @@ layout: default
 
 <div class="row">
 	<div class="col-lg-12">
+	   <div class='media'>
+		<div class='col-md-3'>
 		{% if page.image %}
 		<img class="pull-left pad-right media-object d-none d-sm-block" src="{{ page.image }}">
 		<img width=85 class="float-left pad-right d-block d-sm-none" src="{{ page.image }}">
 		{% endif %}
-		<div class="titlebox">
+		</div>
+		<div class="media-body titlebox">
 			<div class="title">
 				{{ page.title }}
 			</div>
 			<p>
 			<div class="smallhead">
-				{{ page.authors }}
-				{{ page.year }}.
+				{{ page.authors }}<br>
 				{{ page.journal }}
 			</div>
+		</div>
 		</div>
 	</div>
 </div>
@@ -50,9 +53,10 @@ layout: default
 			</div>
 			<div class="bigspacer"></div>
 			{% endif %}
+
 			{% if page.doi %}
 			<div class="smallhead">
-				DOI
+				doi
 			</div>
 			<div class="pad-left note">
 				<div class="smallspacer"></div>
@@ -61,6 +65,20 @@ layout: default
 			</div>
 			<div class="bigspacer"></div>
 			{% endif %}
+
+			{% if page.arxiv %}
+			<div class="smallhead">
+				arXiv
+			</div>
+			<div class="pad-left note">
+				<div class="smallspacer"></div>
+				<i class="fa fa-external-link fa-fw"></i>
+				<a class="off" href="https://doi.org/{{ page.doi }}">{{ page.arxiv }}</a>
+			</div>
+			<div class="bigspacer"></div>
+			{% endif %}
+
+
 			{% if page.github %}
 			<div class="smallhead">
 				GitHub

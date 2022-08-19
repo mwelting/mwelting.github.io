@@ -9,6 +9,9 @@ arxiv   : 2104.00728
 image   : /images/papers/cartan.png
 doi     : 10.1103/PhysRevLett.129.070501 
 ncsu    : True
+pdf     : /pdfs/papers/kokcu-cartan.pdf
+supplement: /pdfs/papers/kokcu-cartan-supp.pdf
+github  : https://github.com/kemperlab/cartan-quantum-synthesizer
 ---
 
 # Abstract

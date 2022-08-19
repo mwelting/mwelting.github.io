@@ -9,6 +9,8 @@ arxiv   : 2108.03283
 doi     : 10.1137/21M1439298
 image   : /images/papers/camps_compression.png
 ncsu    : True
+pdf     : /pdfs/papers/camps-simax-compression.pdf
+github  : https://github.com/QuantumComputingLab
 ---
 
 # Abstract
