@@ -1,0 +1,137 @@
+---
+- repo: kemperlab/cartan-quantum-synthesizer
+  title: cartan-quantum-synthesizer
+  owner: kemperlab
+  description:
+  url: "/projects/cartan-quantum-synthesizer/"
+  contributors:
+  - login: tmsteck
+    avatar: https://avatars.githubusercontent.com/u/67061034?v=4&s=50
+    url: https://github.com/tmsteck
+  - login: kemper-af
+    avatar: https://avatars.githubusercontent.com/u/34260103?v=4&s=50
+    url: https://github.com/kemper-af
+  - login: avijitshee
+    avatar: https://avatars.githubusercontent.com/u/33353055?v=4&s=50
+    url: https://github.com/avijitshee
+  commits:
+  - date: 2022-02-09 21:59:21.000000000 Z
+    message: Merge branch 'main' of https://github.com/kemperlab/cartan-quantum-synthesizer
+      into main
+    url: https://github.com/kemperlab/cartan-quantum-synthesizer/commit/59f3e3decfd6e19afcd3b4773a56a5ee48890108
+    author_login: tmsteck
+    author_url: https://github.com/tmsteck
+  - date: 2022-02-09 21:59:17.000000000 Z
+    message: Fixing Dcoumentation Typos
+    url: https://github.com/kemperlab/cartan-quantum-synthesizer/commit/d9af1b3499d441adcb76d9dfa5c62072ff387cc4
+    author_login: tmsteck
+    author_url: https://github.com/tmsteck
+  - date: 2021-08-31 23:59:58.000000000 Z
+    message: |-
+      Merge pull request #1 from avijitshee/main
+
+      added ucc test
+    url: https://github.com/kemperlab/cartan-quantum-synthesizer/commit/e21f8a15a7b4cb8f49718a5e021a1ff2292f231d
+    author_login: tmsteck
+    author_url: https://github.com/tmsteck
+  - date: 2021-08-31 14:53:47.000000000 Z
+    message: added ucc test
+    url: https://github.com/kemperlab/cartan-quantum-synthesizer/commit/d0430643c2eeb610eca8f46581bb70df9ec084b7
+    author_login: avijitshee
+    author_url: https://github.com/avijitshee
+  - date: 2021-07-29 15:15:27.000000000 Z
+    message: Piling update
+    url: https://github.com/kemperlab/cartan-quantum-synthesizer/commit/4d86d57fe85f3f459e656bf23a5a8060b5ada530
+    author_login: tmsteck
+    author_url: https://github.com/tmsteck
+- repo: kemperlab/Cartan_DMFT
+  title: Cartan_DMFT
+  owner: kemperlab
+  description:
+  url: "/projects/Cartan_DMFT/"
+  contributors:
+  - login: tmsteck
+    avatar: https://avatars.githubusercontent.com/u/67061034?v=4&s=50
+    url: https://github.com/tmsteck
+  commits:
+  - date: 2022-01-28 18:27:08.000000000 Z
+    message: Update README.md
+    url: https://github.com/kemperlab/Cartan_DMFT/commit/8bfe06e6f9f3a734302e5aee0c29fc4f475a9264
+    author_login: tmsteck
+    author_url: https://github.com/tmsteck
+  - date: 2022-01-28 18:26:52.000000000 Z
+    message: Update README.md
+    url: https://github.com/kemperlab/Cartan_DMFT/commit/92b16531873c7ccd2247344d032587907e5cf32d
+    author_login: tmsteck
+    author_url: https://github.com/tmsteck
+  - date: 2022-01-28 18:26:38.000000000 Z
+    message: Update README.md
+    url: https://github.com/kemperlab/Cartan_DMFT/commit/0461bfc91345b911af0bfb375dbc9d36a8a2cd06
+    author_login: tmsteck
+    author_url: https://github.com/tmsteck
+  - date: 2022-01-28 18:26:17.000000000 Z
+    message: Update README.md
+    url: https://github.com/kemperlab/Cartan_DMFT/commit/1fc91fc0b88514eeac499bd80ede85e5aa258bef
+    author_login: tmsteck
+    author_url: https://github.com/tmsteck
+  - date: 2022-01-14 20:49:59.000000000 Z
+    message: Removed Figures, leaving the code. Added license, Removed testing jobs
+    url: https://github.com/kemperlab/Cartan_DMFT/commit/e80c74c2d250af37523f9fa5508246ed016ce89b
+    author_login: tmsteck
+    author_url: https://github.com/tmsteck
+- repo: QuantumComputingLab/f3cpp
+  title: f3cpp
+  owner: QuantumComputingLab
+  description: Fast free fermion compiler (F3C++) - Quantum circuit compression for
+    Hamiltonian simulation
+  url: "/projects/f3cpp/"
+  contributors: []
+  commits:
+  - date: 2021-09-20 23:24:04.000000000 Z
+    message: F3C++ v0.1.0
+    url: https://github.com/QuantumComputingLab/f3cpp/commit/92c5ea0ad01f3ed7ab429e0a7d809f4fb0659528
+    author_login: ''
+    author_url: ''
+  - date: 2021-08-06 19:00:54.000000000 Z
+    message: Merge branch 'master' of https://github.com/QuantumComputingLab/f3cpp
+    url: https://github.com/QuantumComputingLab/f3cpp/commit/4000ad771d249bf012f62ff389b3fe1430a267b6
+    author_login: ''
+    author_url: ''
+  - date: 2021-08-06 19:00:43.000000000 Z
+    message: F3C++ v0.1.0
+    url: https://github.com/QuantumComputingLab/f3cpp/commit/5a14a91c437e40ef05dbcfd6e710f69ad643c219
+    author_login: ''
+    author_url: ''
+  - date: 2021-08-04 21:16:53.000000000 Z
+    message: F3C++ v0.1.0
+    url: https://github.com/QuantumComputingLab/f3cpp/commit/441956ec4e5e3d4a20f6162ca243fa7565daaa08
+    author_login: ''
+    author_url: ''
+  - date: 2021-08-04 21:00:22.000000000 Z
+    message: F3C++ v0.1.0
+    url: https://github.com/QuantumComputingLab/f3cpp/commit/90e9793570f94894a0b7b335c9965dfcf385754e
+    author_login: ''
+    author_url: ''
+- repo: QuantumComputingLab/f3c
+  title: f3c
+  owner: QuantumComputingLab
+  description: Fast free fermion compiler - Quantum circuit compression for Hamiltonian
+    simulation
+  url: "/projects/f3c/"
+  contributors: []
+  commits:
+  - date: 2021-08-11 15:06:39.000000000 Z
+    message: F3C v0.1.0
+    url: https://github.com/QuantumComputingLab/f3c/commit/c2618fcc8c7f157e75ec978c7e90278b862274a7
+    author_login: ''
+    author_url: ''
+  - date: 2021-08-04 20:56:31.000000000 Z
+    message: F3C v0.1.0
+    url: https://github.com/QuantumComputingLab/f3c/commit/538200ce5746d951c927522a7582d81563b49802
+    author_login: ''
+    author_url: ''
+  - date: 2021-08-04 16:15:25.000000000 Z
+    message: F3C v0.1.0
+    url: https://github.com/QuantumComputingLab/f3c/commit/916782d1391fa46c503317c57cd68e2bbf0f6d22
+    author_login: ''
+    author_url: ''
