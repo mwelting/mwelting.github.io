@@ -2,7 +2,7 @@
 - repo: kemperlab/cartan-quantum-synthesizer
   title: cartan-quantum-synthesizer
   owner: kemperlab
-  description:
+  description: Quantum Computing -- Unitary synthesis based on Cartan decomposition
   url: "/projects/cartan-quantum-synthesizer/"
   contributors:
   - login: tmsteck
