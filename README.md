@@ -1,11 +1,13 @@
-# bedford lab research
+# kemper lab research
+
+This website is a clone of the bedford lab website at Fred Hutch. You can find the original [here](https://github.com/blab/blotter).
 
 ## Build site
 
 To build the website locally, clone the repo with:
 
 ```
-git clone https://github.com/blab/blotter.git
+git clone https://github.com/kemperlab/kemperlab.github.io.git
 ```
 
 Then install necessary Ruby dependencies by running `bundle install` from within the `blotter` directory.  After this, the site can be be built with:
@@ -26,6 +28,7 @@ ruby _scripts/update-and-preprocess.rb
 
 Then `jekyll build` works as normal.
 
+<!--
 ## Contribute
 
 Blog posts just require YAML top matter that looks something like:
@@ -46,6 +49,7 @@ The `layout`, `title` and `author` tags are required, while `link` and `image` a
 
 * Look over the [metadata format guide](http://bedford.io/guide/format/)
 * Look over the [Markdown style guide](http://bedford.io/guide/style/)
+-->
 
 ## License
 
@@ -53,7 +57,7 @@ All source code in this repository, consisting of files with extensions `.html`,
 
 **The MIT License (MIT)**
 
-Copyright (c) 2013-2019 Trevor Bedford
+Copyright (c) 2018-2022 Lex Kemper
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
