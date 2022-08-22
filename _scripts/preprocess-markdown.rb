@@ -36,7 +36,7 @@ mdarray.each { |md|
 	# get project name if possible
 	project_name = nil
 	dirarray = full_directory.split('/')
-	temp_name = dirarray[dirarray.index("projects") + 1]
+	temp_name = dirarray[dirarray.index("work") + 1]
 	if temp_name =~ /^[^_]/
 		project_name = temp_name
 	end
@@ -52,7 +52,7 @@ mdarray.each { |md|
 		out.puts "---"
 		out.puts "layout: project"
 		if project_name != nil
-			title = md.sub(/^.*projects\//, '').sub(/.md$/, '').sub(/index$/, '')
+			title = md.sub(/^.*projects\/work\//, '').sub(/.md$/, '').sub(/index$/, '')
 			out.puts "title: #{title}"
 			out.puts "project: #{project_name}"
 			out.puts "repo: #{repo}"

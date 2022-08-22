@@ -10,12 +10,13 @@ config = YAML.load_file("_config.yml")
 config["projects"].each do |repo|
     print("\n\n"+repo+"\n")
 	name = repo.split('/').drop(1).join('')		
-	Dir.chdir($basedir + "/projects/work")			
+    print("\n Name: "+name+"\n")
+	Dir.chdir($basedir + "/projects/work/")			
 	if !Dir.exists?(name)								# clone project repo
 		result=`git clone https://github.com/#{repo}.git`
         print("Lex clone results: ",result)
 	end
-	Dir.chdir($basedir + "/projects/work" + name)			# drop into blotter dir	
+	Dir.chdir($basedir + "/projects/work/" + name)			# drop into blotter dir	
 	`git clean -f`										# remove untracked files, but keep directories
 	`git reset --hard HEAD`								# bring back to head state
 	pull_success=`git pull origin`							# git pull					
