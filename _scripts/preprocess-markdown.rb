@@ -13,7 +13,7 @@ config["projects"].each do |repo|
 end
 
 # collect all markdown files
-mdarray = Dir.glob("projects/**/*.md")
+mdarray = Dir.glob("projects/work/**/*.md")
 
 # go through each markdown file
 mdarray.each { |md|
@@ -31,6 +31,7 @@ mdarray.each { |md|
 		File.rename(md, indexmd)
 		md = indexmd
 	end
+    print("Working on ",File.dirname(md), "\n")
 
 	# get project name if possible
 	project_name = nil

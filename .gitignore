@@ -3,10 +3,9 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor/bundle
-projects/
-!projects/index.html
 
 environment*
+projects/work
 
 .DS_Store
 *.swp
