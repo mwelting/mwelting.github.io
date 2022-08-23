@@ -2,11 +2,12 @@
 layout: member
 title: Alexander (Lex) Kemper
 position: Principal investigator
-handle: lkemper
+handle: akemper
 email: akemper@ncsu.edu
 scholar: dliZB7MAAAAJ
 calendar:
 image: /images/team/Lex.png
+github: kemper-af
 cv:
 ---
 

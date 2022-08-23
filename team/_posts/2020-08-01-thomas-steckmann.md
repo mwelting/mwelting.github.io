@@ -5,7 +5,7 @@ position: Undergraduate Researcher
 handle: esteckmann
 email: 
 twitter: 
-github: 
+github: tmsteck
 scholar:
 calendar:
 alumni: true
