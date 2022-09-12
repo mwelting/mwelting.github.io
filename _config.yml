@@ -45,5 +45,6 @@ exclude:
 projects:
   - kemperlab/cartan-quantum-synthesizer
   - kemperlab/Cartan_DMFT
+  - kemperlab/EigenvectorContinuation
   - QuantumComputingLab/f3c
   - QuantumComputingLab/f3cpp

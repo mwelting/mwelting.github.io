@@ -1,4 +1,51 @@
 ---
+- repo: kemperlab/EigenvectorContinuation
+  title: EigenvectorContinuation
+  owner: kemperlab
+  description:
+  url: "/projects/EigenvectorContinuation/"
+  contributors:
+  - login: jhhoward481
+    avatar: https://avatars.githubusercontent.com/u/104920841?v=4&s=50
+    url: https://github.com/jhhoward481
+  - login: Akhil-Francis
+    avatar: https://avatars.githubusercontent.com/u/59176698?v=4&s=50
+    url: https://github.com/Akhil-Francis
+  - login: kemper-af
+    avatar: https://avatars.githubusercontent.com/u/34260103?v=4&s=50
+    url: https://github.com/kemper-af
+  commits:
+  - date: 2022-09-10 21:38:25.000000000 Z
+    message: Update README with DOI
+    url: https://github.com/kemperlab/EigenvectorContinuation/commit/5196a1a3dce3532b3b30fe9234c6e4c3d96471a8
+    author_login: jhhoward481
+    author_url: https://github.com/jhhoward481
+  - date: 2022-09-10 17:45:26.000000000 Z
+    message: |-
+      Merge pull request #4 from kemperlab/dev
+
+      Updated examples. Prepared files for release.
+    url: https://github.com/kemperlab/EigenvectorContinuation/commit/fe51567d3ef41b0b864eca8e4d32fedcbe168981
+    author_login: jhhoward481
+    author_url: https://github.com/jhhoward481
+  - date: 2022-09-10 17:39:33.000000000 Z
+    message: Updated version number for release
+    url: https://github.com/kemperlab/EigenvectorContinuation/commit/7324187ed95c8a2ffc63742cab3b3edfd1889460
+    author_login: jhhoward481
+    author_url: https://github.com/jhhoward481
+  - date: 2022-09-10 17:32:17.000000000 Z
+    message: |-
+      Merge pull request #3 from kemperlab/ex_edits
+
+      Updated example files. Added unitary space example
+    url: https://github.com/kemperlab/EigenvectorContinuation/commit/8ce269a2c8af664597e26f82743fd0804fa9a7e2
+    author_login: jhhoward481
+    author_url: https://github.com/jhhoward481
+  - date: 2022-09-10 17:25:07.000000000 Z
+    message: Updated example files. Added unitary space example
+    url: https://github.com/kemperlab/EigenvectorContinuation/commit/6d87508d9ed8af055a6f38416d4c6f45c6260fdf
+    author_login: jhhoward481
+    author_url: https://github.com/jhhoward481
 - repo: kemperlab/cartan-quantum-synthesizer
   title: cartan-quantum-synthesizer
   owner: kemperlab
