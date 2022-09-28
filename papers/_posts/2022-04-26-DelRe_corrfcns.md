@@ -3,7 +3,7 @@ layout  : paper
 title   : "Robust measurements of n-point correlation functions of driven-dissipative quantum systems on a digital quantum computer"
 authors : Del Re L, Rost B, Foss-Feig M, Kemper AF, Freericks JK
 year    : 2022
-ref     : "L. Del Re et al., arXiv 2022"
+ref     : "L. Del Re et al., arXiv:2022.12400"
 journal : arXiv:2204.12400
 arxiv   : "2204.12400"
 image   : /images/papers/delre_corrfcn.png
