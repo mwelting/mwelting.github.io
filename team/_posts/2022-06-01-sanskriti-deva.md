@@ -8,6 +8,7 @@ twitter:
 github: 
 scholar:
 calendar:
+alumni: true
 image: /images/team/sanskriti.jpg
 cv:
 ---
