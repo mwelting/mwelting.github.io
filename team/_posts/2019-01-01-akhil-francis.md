@@ -4,6 +4,7 @@ title: Akhil Francis
 position: Graduate Researcher
 handle: afrancis
 email: afranci2@ncsu.edu
+scholar: d1OyaHMAAAAJ
 calendar:
 image: /images/team/akhil.jpeg
 cv: /pdfs/team/akhil-francis-cv.pdf
