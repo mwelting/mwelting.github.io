@@ -1,6 +1,6 @@
 ---
 layout: talk
-title:  Non-equilibrium spectroscopy of matter:Excitons and correlation functions
+title:  Non-equilibrium spectroscopy of matter&#x3a; Excitons and correlation functions
 venue:  Yale University
 event:  Solid State and Optics Seminar
 date:  Dec 14, 2022
