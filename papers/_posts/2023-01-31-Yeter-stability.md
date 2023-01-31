@@ -7,7 +7,7 @@ ref     : "K. Yeter-Adeniz et al., QIP 2023"
 journal : Quantum Information Processing (2023) 22&#58;96
 arxiv   : 2201.02899
 image   : /images/papers/yeter-adeniz-fidelity.png
-pdf     : pdfs/papers/QIP_22_96_2023.pdf
+pdf     : /pdfs/papers/QIP_22_96_2023.pdf
 doi     : 10.1007/s11128-023-03826-4
 ncsu    : True
 ---
