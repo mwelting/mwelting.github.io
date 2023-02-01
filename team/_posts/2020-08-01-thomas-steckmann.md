@@ -6,7 +6,8 @@ handle: esteckmann
 email: 
 twitter: 
 github: tmsteck
-scholar:
+scholar: 8JeFGiIAAAAJ
+orcid: 0000-0001-6012-2948
 calendar:
 alumni: true
 image: /images/team/Thomas2020full.jpg
