@@ -1,13 +1,14 @@
 ---
 layout: member
-title: Heba Soliman
+title: Heba Labib
 position: Graduate Researcher
-handle: hsoliman
+handle: hlabib
 email: 
 twitter: 
 github: 
 scholar:
 calendar:
+orcid: 0000-0002-6929-9114
 image: /images/team/heba_soliman.jpg
 cv:
 ---
