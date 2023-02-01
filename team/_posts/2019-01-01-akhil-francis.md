@@ -6,6 +6,7 @@ handle: afrancis
 email: afranci2@ncsu.edu
 scholar: d1OyaHMAAAAJ
 calendar:
+orcid: 0000-0002-9748-5790
 image: /images/team/akhil.jpeg
 cv: /pdfs/team/akhil-francis-cv.pdf
 ---

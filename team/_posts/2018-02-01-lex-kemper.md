@@ -8,6 +8,7 @@ scholar: dliZB7MAAAAJ
 calendar:
 image: /images/team/Lex.png
 github: kemper-af
+orcid: 0000-0002-5426-5181
 cv:
 ---
 
