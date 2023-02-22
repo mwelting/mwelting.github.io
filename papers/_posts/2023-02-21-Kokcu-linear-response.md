@@ -2,7 +2,7 @@
 layout  : paper
 title   : A linear response framework for simulating bosonic and fermionic correlation functions illustrated on quantum computers
 authors : K&#0246;kc&#0252; Labib HA, Freericks JK, Kemper AF
-year    : 2022
+year    : 2023
 ref     : "E. K&#0246;kc&#0252; et al., arXiv:2302.10219"
 journal : arXiv:2302.10219
 arxiv   : 2302.10219
