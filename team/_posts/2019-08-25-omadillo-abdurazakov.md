@@ -1,6 +1,6 @@
 ---
 layout: member
-title: Omadillo Abdurazakov
+title: Omadillo Abdurazakov, Ph.D.
 position: Graduate Researcher
 handle: oabdura
 email: oabdura@ncsu.edu

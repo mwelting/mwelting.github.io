@@ -1,6 +1,6 @@
 ---
 layout: member
-title: Akhil Francis
+title: Akhil Francis, Ph.D.
 position: Graduate Researcher
 handle: afrancis
 email: afranci2@ncsu.edu

@@ -1,6 +1,6 @@
 ---
 layout: member
-title: Ankit Kumar
+title: Ankit Kumar, Ph.D.
 position: Graduate Researcher
 handle: akumar
 email: akumar13@ncsu.edu
