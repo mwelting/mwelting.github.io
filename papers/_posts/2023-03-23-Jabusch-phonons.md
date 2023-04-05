@@ -2,7 +2,7 @@
 layout  : paper
 title   : Catalogue of phonon modes in several cuprate high-temperature superconductors from density functional theory
 authors : Jabusch NJ, Dayal P, Kemper AF
-year    : 2020
+year    : 2023
 ref     : "N.J. Jabusch et al., SciPost (2023)"
 journal : SciPost Phys. Core 6, 018 (2023)
 arxiv   : 2010.10553
