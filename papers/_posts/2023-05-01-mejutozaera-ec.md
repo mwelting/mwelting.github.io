@@ -5,7 +5,7 @@ authors : Mejuto-Zaera C, Kemper AF
 year    : 2023
 ref     : "C. Mejuto-Zaera et al., arXiv:2305.00060"
 journal : arXiv:2305.00060
-arxiv   : 2305.00060
+arxiv   : "2305.00060"
 image   : /images/papers/molecule_dimer_ec.png
 ncsu    : True
 ---
