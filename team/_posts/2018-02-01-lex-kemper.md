@@ -9,7 +9,7 @@ calendar:
 image: /images/team/Lex.png
 github: kemper-af
 orcid: 0000-0002-5426-5181
-cv: /pdfs/team/AFKemper_CV_withlinks.pdf
+cv: /pdfs/team/AFKemper_CV.pdf
 ---
 
 Dr. Kemper received his PhD in Physics in 2010 from the University of Florida. He spent 2 years as a postdoctoral research at Stanford University and SLAC National Laboratory followed by serving as an Alvarez Fellow at Lawrence Berkeley National Laboratory before joining the faculty at NC State in 2015 as an assistant professor.
