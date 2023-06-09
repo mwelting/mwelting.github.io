@@ -8,32 +8,41 @@
   - login: kemper-af
     avatar: https://avatars.githubusercontent.com/u/34260103?v=4&s=50
     url: https://github.com/kemper-af
+  - login: ArvinSKushwaha
+    avatar: https://avatars.githubusercontent.com/u/38300391?v=4&s=50
+    url: https://github.com/ArvinSKushwaha
   commits:
-  - date: 2023-05-31 02:09:15.000000000 Z
-    message: First implementation of Pauli vectors
-    url: https://github.com/kemperlab/PauliTools/commit/4386e3b8cc6e6e4dfedde6589d0fd12cb733219b
-    author_login: kemper-af
-    author_url: https://github.com/kemper-af
-  - date: 2023-05-30 17:54:12.000000000 Z
-    message: Added single-script test run
-    url: https://github.com/kemperlab/PauliTools/commit/4dcd90f950b38407d09d6d413c55d0cd299cc313
-    author_login: kemper-af
-    author_url: https://github.com/kemper-af
-  - date: 2023-05-30 02:16:47.000000000 Z
-    message: Create README.md
-    url: https://github.com/kemperlab/PauliTools/commit/c8f13072fbf2c9f4395179bdac69a1029f39c241
-    author_login: kemper-af
-    author_url: https://github.com/kemper-af
-  - date: 2023-05-30 02:07:16.000000000 Z
-    message: Added example and fixed test for DLA
-    url: https://github.com/kemperlab/PauliTools/commit/30b89aca6589409020973827d99d1df7e1990151
-    author_login: kemper-af
-    author_url: https://github.com/kemper-af
-  - date: 2023-05-30 02:00:19.000000000 Z
-    message: Added git ignore file
-    url: https://github.com/kemperlab/PauliTools/commit/76c257af7f8f601805f308a9039d2c40c9392d82
-    author_login: kemper-af
-    author_url: https://github.com/kemper-af
+  - date: 2023-06-02 18:51:18.000000000 Z
+    message: |-
+      Merge pull request #1 from kemperlab/test-github-actions
+
+      Create ci.yml
+    url: https://github.com/kemperlab/PauliTools/commit/1ae7b8940ff9bc32b71ef21c27c353af4615f306
+    author_login: ArvinSKushwaha
+    author_url: https://github.com/ArvinSKushwaha
+  - date: 2023-06-02 18:49:15.000000000 Z
+    message: Changed action version number.
+    url: https://github.com/kemperlab/PauliTools/commit/5bcb4e037fb182039b39b05d1d681236fb8e11d6
+    author_login: ArvinSKushwaha
+    author_url: https://github.com/ArvinSKushwaha
+  - date: 2023-06-02 18:47:44.000000000 Z
+    message: Repaired action
+    url: https://github.com/kemperlab/PauliTools/commit/28e82e6f1c5998ac61691910f144a3b4d96ddaee
+    author_login: ArvinSKushwaha
+    author_url: https://github.com/ArvinSKushwaha
+  - date: 2023-06-02 18:38:48.000000000 Z
+    message: "[PATCH] Fixed ordering of libraries"
+    url: https://github.com/kemperlab/PauliTools/commit/6a5b6233c3b4a380a9eba151fe277fbe90804165
+    author_login: ArvinSKushwaha
+    author_url: https://github.com/ArvinSKushwaha
+  - date: 2023-06-02 18:35:54.000000000 Z
+    message: |-
+      Create ci.yml
+
+      Adding GitHub actions workflow
+    url: https://github.com/kemperlab/PauliTools/commit/d96e3ec0f4ad3655fa927b82978269d37b8f8ffd
+    author_login: ArvinSKushwaha
+    author_url: https://github.com/ArvinSKushwaha
 - repo: kemperlab/Cartan_DMFT
   title: Cartan_DMFT
   owner: kemperlab
