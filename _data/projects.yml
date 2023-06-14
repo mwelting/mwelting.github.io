@@ -2,7 +2,8 @@
 - repo: kemperlab/PauliTools
   title: PauliTools
   owner: kemperlab
-  description: 
+  description: A collection of C++ tools to work with Pauli matrices in the binary
+    symplectic representation.
   url: "/projects/PauliTools/"
   contributors:
   - login: kemper-af
