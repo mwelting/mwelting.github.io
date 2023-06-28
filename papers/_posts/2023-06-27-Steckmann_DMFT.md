@@ -1,6 +1,6 @@
 ---
 layout  : paper
-title   : Simulating the Mott transition on a noisy digital quantum computer via Cartan-based fast-forwarding circuits
+title   : Mapping the metal-insulator phase diagram by algebraically fast-forwarding dynamics on a cloud quantum computer
 authors : Steckmann T, Keen T, Kemper AF, Dumitrescu EF, Wang Y
 year    : 2023
 ref     : "T. Steckmann et al., PRR (2023)"
