@@ -2,7 +2,7 @@
 layout  : paper
 title   : Simulating the Mott transition on a noisy digital quantum computer via Cartan-based fast-forwarding circuits
 authors : Steckmann T, Keen T, Kemper AF, Dumitrescu EF, Wang Y
-year    : 2021
+year    : 2023
 ref     : "T. Steckmann et al., PRR (2023)"
 journal : Phys. Rev. Research 5, 023198 (2023)
 arxiv   : 2112.05688
