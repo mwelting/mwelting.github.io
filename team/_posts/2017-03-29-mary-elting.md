@@ -6,7 +6,7 @@ handle: mwelting
 email: mary.elting@ncsu.edu
 twitter: mwelting
 github: mwelting
-scholar: https://scholar.google.com/citations?user=LRu7dfwAAAAJ&hl=en&authuser=1&oi=ao
+scholar: https://scholar.google.com/citations?user=LRu7dfwAAAAJ
 calendar:
 image: /images/team/mary-elting.png
 cv:
