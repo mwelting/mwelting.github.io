@@ -9,6 +9,7 @@ arxiv   : 2101.08836
 doi     : 10.1088/2058-9565/ac1ca6
 image   : /images/papers/materials_sim_quantum.png
 ncsu    : True
+github  : https://github.com/lebassman/QST_Review_Working_Examples
 ---
 
 # Abstract

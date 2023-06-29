@@ -67,10 +67,23 @@ layout: default
 		<div class="pad-left note">
 			<div class="smallspacer"></div>
 			<i class="fa fa-book fa-fw"></i>
-			<a class="off" href="http://scholar.google.com/citations?user={{ member.scholar }}">{{ member.title }}</a>
+			<a class="off" href="http://scholar.google.com/citations?user={{ member.scholar }}">{{ member.scholar }}</a>
 		</div>
 		<div class="bigspacer"></div>
 		{% endif %}
+
+        {% if member.orcid %}
+		<div class="smallhead">
+			ORCID
+		</div>
+		<div class="pad-left note">
+			<div class="smallspacer"></div>
+			<i class="fa fa-book fa-fw"></i>
+			<a class="off" href="https://orcid.org/{{ member.orcid }}">{{ member.orcid }}</a>
+		</div>
+		<div class="bigspacer"></div>
+        {% endif %}
+
 		{% if member.calendar %}
 		<div class="smallhead">
 			Calendar

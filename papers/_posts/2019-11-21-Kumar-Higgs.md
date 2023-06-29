@@ -5,7 +5,7 @@ authors : Kumar A, Kemper AF
 year    : 2019
 ref     : "A. Kumar and A.F. Kemper, PRB 2019"
 journal : Phys. Rev. B 100, 174515 (2019)
-arxiv   : 1902.09549"
+arxiv   : 1902.09549
 image   : /images/papers/kumar_higgs.png
 doi     : 10.1103/PhysRevB.100.174515
 ncsu    : True

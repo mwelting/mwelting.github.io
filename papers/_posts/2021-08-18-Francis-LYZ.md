@@ -8,6 +8,8 @@ journal : Science Advances Vol. 7, no. 34, eabf2447
 arxiv   : 2009.04648
 doi     : 10.1126/sciadv.abf2447 
 image   : /images/papers/lyz_free_energy.png
+pdf     : /pdfs/papers/sciadv.abf2447.pdf
+supplement      : /pdfs/papers/sciadv.abf2447_sm.pdf
 ncsu    : True
 ---
 

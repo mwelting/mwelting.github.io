@@ -1,6 +1,6 @@
 ---
 layout: member
-title: Dr. Avinash Rustagi
+title: Avinash Rustagi, Ph.D.
 position: Postdoctoral Researcher
 handle: arustagi
 email: arustag@ncsu.edu

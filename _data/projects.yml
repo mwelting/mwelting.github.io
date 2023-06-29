@@ -1,4 +1,127 @@
 ---
+- repo: kemperlab/PauliTools
+  title: PauliTools
+  owner: kemperlab
+  description: A collection of C++ tools to work with Pauli matrices in the binary
+    symplectic representation.
+  url: "/projects/PauliTools/"
+  contributors:
+  - login: kemper-af
+    avatar: https://avatars.githubusercontent.com/u/34260103?v=4&s=50
+    url: https://github.com/kemper-af
+  - login: ArvinSKushwaha
+    avatar: https://avatars.githubusercontent.com/u/38300391?v=4&s=50
+    url: https://github.com/ArvinSKushwaha
+  commits:
+  - date: 2023-06-02 18:51:18.000000000 Z
+    message: |-
+      Merge pull request #1 from kemperlab/test-github-actions
+
+      Create ci.yml
+    url: https://github.com/kemperlab/PauliTools/commit/1ae7b8940ff9bc32b71ef21c27c353af4615f306
+    author_login: ArvinSKushwaha
+    author_url: https://github.com/ArvinSKushwaha
+  - date: 2023-06-02 18:49:15.000000000 Z
+    message: Changed action version number.
+    url: https://github.com/kemperlab/PauliTools/commit/5bcb4e037fb182039b39b05d1d681236fb8e11d6
+    author_login: ArvinSKushwaha
+    author_url: https://github.com/ArvinSKushwaha
+  - date: 2023-06-02 18:47:44.000000000 Z
+    message: Repaired action
+    url: https://github.com/kemperlab/PauliTools/commit/28e82e6f1c5998ac61691910f144a3b4d96ddaee
+    author_login: ArvinSKushwaha
+    author_url: https://github.com/ArvinSKushwaha
+  - date: 2023-06-02 18:38:48.000000000 Z
+    message: "[PATCH] Fixed ordering of libraries"
+    url: https://github.com/kemperlab/PauliTools/commit/6a5b6233c3b4a380a9eba151fe277fbe90804165
+    author_login: ArvinSKushwaha
+    author_url: https://github.com/ArvinSKushwaha
+  - date: 2023-06-02 18:35:54.000000000 Z
+    message: |-
+      Create ci.yml
+
+      Adding GitHub actions workflow
+    url: https://github.com/kemperlab/PauliTools/commit/d96e3ec0f4ad3655fa927b82978269d37b8f8ffd
+    author_login: ArvinSKushwaha
+    author_url: https://github.com/ArvinSKushwaha
+- repo: kemperlab/Cartan_DMFT
+  title: Cartan_DMFT
+  owner: kemperlab
+  description: 
+  url: "/projects/Cartan_DMFT/"
+  contributors:
+  - login: tmsteck
+    avatar: https://avatars.githubusercontent.com/u/67061034?v=4&s=50
+    url: https://github.com/tmsteck
+  commits:
+  - date: 2023-05-24 19:46:09.000000000 Z
+    message: Updates to figures and referee revisions
+    url: https://github.com/kemperlab/Cartan_DMFT/commit/116e993ab7683fc1e9e0a53461318a5e3fb4ec09
+    author_login: tmsteck
+    author_url: https://github.com/tmsteck
+  - date: 2023-02-08 22:55:42.000000000 Z
+    message: Added figure 6
+    url: https://github.com/kemperlab/Cartan_DMFT/commit/2499fb6dae41b992b06963a4a68908ba2e21fb7e
+    author_login: tmsteck
+    author_url: https://github.com/tmsteck
+  - date: 2022-10-05 15:35:13.000000000 Z
+    message: Update README.md
+    url: https://github.com/kemperlab/Cartan_DMFT/commit/77fe5918a9e2882b71419cd3ba4ed79002fd7790
+    author_login: tmsteck
+    author_url: https://github.com/tmsteck
+  - date: 2022-01-28 18:27:08.000000000 Z
+    message: Update README.md
+    url: https://github.com/kemperlab/Cartan_DMFT/commit/8bfe06e6f9f3a734302e5aee0c29fc4f475a9264
+    author_login: tmsteck
+    author_url: https://github.com/tmsteck
+  - date: 2022-01-28 18:26:52.000000000 Z
+    message: Update README.md
+    url: https://github.com/kemperlab/Cartan_DMFT/commit/92b16531873c7ccd2247344d032587907e5cf32d
+    author_login: tmsteck
+    author_url: https://github.com/tmsteck
+- repo: kemperlab/cartan-quantum-synthesizer
+  title: cartan-quantum-synthesizer
+  owner: kemperlab
+  description: Quantum Computing -- Unitary synthesis based on Cartan decomposition
+  url: "/projects/cartan-quantum-synthesizer/"
+  contributors:
+  - login: tmsteck
+    avatar: https://avatars.githubusercontent.com/u/67061034?v=4&s=50
+    url: https://github.com/tmsteck
+  - login: kemper-af
+    avatar: https://avatars.githubusercontent.com/u/34260103?v=4&s=50
+    url: https://github.com/kemper-af
+  commits:
+  - date: 2022-10-06 19:02:22.000000000 Z
+    message: Fixed artifact from generating documenation
+    url: https://github.com/kemperlab/cartan-quantum-synthesizer/commit/d54bb988dcac1069d96b68952cb1a4ddb16976f4
+    author_login: tmsteck
+    author_url: https://github.com/tmsteck
+  - date: 2022-10-06 19:01:35.000000000 Z
+    message: "Merge test tms (#2)\n\n* Merge pull request #1 from avijitshee/main\r\n\r\nadded
+      ucc test\r\n\r\n* Updating documentation\r\n\r\n* typo merge"
+    url: https://github.com/kemperlab/cartan-quantum-synthesizer/commit/f36c25251bd3b0578262ae39d2844a2b00a3b59d
+    author_login: tmsteck
+    author_url: https://github.com/tmsteck
+  - date: 2022-02-09 21:59:21.000000000 Z
+    message: Merge branch 'main' of https://github.com/kemperlab/cartan-quantum-synthesizer
+      into main
+    url: https://github.com/kemperlab/cartan-quantum-synthesizer/commit/59f3e3decfd6e19afcd3b4773a56a5ee48890108
+    author_login: tmsteck
+    author_url: https://github.com/tmsteck
+  - date: 2022-02-09 21:59:17.000000000 Z
+    message: Fixing Dcoumentation Typos
+    url: https://github.com/kemperlab/cartan-quantum-synthesizer/commit/d9af1b3499d441adcb76d9dfa5c62072ff387cc4
+    author_login: tmsteck
+    author_url: https://github.com/tmsteck
+  - date: 2021-08-31 23:59:58.000000000 Z
+    message: |-
+      Merge pull request #1 from avijitshee/main
+
+      added ucc test
+    url: https://github.com/kemperlab/cartan-quantum-synthesizer/commit/e21f8a15a7b4cb8f49718a5e021a1ff2292f231d
+    author_login: tmsteck
+    author_url: https://github.com/tmsteck
 - repo: kemperlab/EigenvectorContinuation
   title: EigenvectorContinuation
   owner: kemperlab
@@ -47,86 +170,6 @@
     url: https://github.com/kemperlab/EigenvectorContinuation/commit/fe51567d3ef41b0b864eca8e4d32fedcbe168981
     author_login: jhhoward481
     author_url: https://github.com/jhhoward481
-- repo: kemperlab/cartan-quantum-synthesizer
-  title: cartan-quantum-synthesizer
-  owner: kemperlab
-  description: Quantum Computing -- Unitary synthesis based on Cartan decomposition
-  url: "/projects/cartan-quantum-synthesizer/"
-  contributors:
-  - login: tmsteck
-    avatar: https://avatars.githubusercontent.com/u/67061034?v=4&s=50
-    url: https://github.com/tmsteck
-  - login: kemper-af
-    avatar: https://avatars.githubusercontent.com/u/34260103?v=4&s=50
-    url: https://github.com/kemper-af
-  - login: avijitshee
-    avatar: https://avatars.githubusercontent.com/u/33353055?v=4&s=50
-    url: https://github.com/avijitshee
-  commits:
-  - date: 2022-02-09 21:59:21.000000000 Z
-    message: Merge branch 'main' of https://github.com/kemperlab/cartan-quantum-synthesizer
-      into main
-    url: https://github.com/kemperlab/cartan-quantum-synthesizer/commit/59f3e3decfd6e19afcd3b4773a56a5ee48890108
-    author_login: tmsteck
-    author_url: https://github.com/tmsteck
-  - date: 2022-02-09 21:59:17.000000000 Z
-    message: Fixing Dcoumentation Typos
-    url: https://github.com/kemperlab/cartan-quantum-synthesizer/commit/d9af1b3499d441adcb76d9dfa5c62072ff387cc4
-    author_login: tmsteck
-    author_url: https://github.com/tmsteck
-  - date: 2021-08-31 23:59:58.000000000 Z
-    message: |-
-      Merge pull request #1 from avijitshee/main
-
-      added ucc test
-    url: https://github.com/kemperlab/cartan-quantum-synthesizer/commit/e21f8a15a7b4cb8f49718a5e021a1ff2292f231d
-    author_login: tmsteck
-    author_url: https://github.com/tmsteck
-  - date: 2021-08-31 14:53:47.000000000 Z
-    message: added ucc test
-    url: https://github.com/kemperlab/cartan-quantum-synthesizer/commit/d0430643c2eeb610eca8f46581bb70df9ec084b7
-    author_login: avijitshee
-    author_url: https://github.com/avijitshee
-  - date: 2021-07-29 15:15:27.000000000 Z
-    message: Piling update
-    url: https://github.com/kemperlab/cartan-quantum-synthesizer/commit/4d86d57fe85f3f459e656bf23a5a8060b5ada530
-    author_login: tmsteck
-    author_url: https://github.com/tmsteck
-- repo: kemperlab/Cartan_DMFT
-  title: Cartan_DMFT
-  owner: kemperlab
-  description: 
-  url: "/projects/Cartan_DMFT/"
-  contributors:
-  - login: tmsteck
-    avatar: https://avatars.githubusercontent.com/u/67061034?v=4&s=50
-    url: https://github.com/tmsteck
-  commits:
-  - date: 2022-01-28 18:27:08.000000000 Z
-    message: Update README.md
-    url: https://github.com/kemperlab/Cartan_DMFT/commit/8bfe06e6f9f3a734302e5aee0c29fc4f475a9264
-    author_login: tmsteck
-    author_url: https://github.com/tmsteck
-  - date: 2022-01-28 18:26:52.000000000 Z
-    message: Update README.md
-    url: https://github.com/kemperlab/Cartan_DMFT/commit/92b16531873c7ccd2247344d032587907e5cf32d
-    author_login: tmsteck
-    author_url: https://github.com/tmsteck
-  - date: 2022-01-28 18:26:38.000000000 Z
-    message: Update README.md
-    url: https://github.com/kemperlab/Cartan_DMFT/commit/0461bfc91345b911af0bfb375dbc9d36a8a2cd06
-    author_login: tmsteck
-    author_url: https://github.com/tmsteck
-  - date: 2022-01-28 18:26:17.000000000 Z
-    message: Update README.md
-    url: https://github.com/kemperlab/Cartan_DMFT/commit/1fc91fc0b88514eeac499bd80ede85e5aa258bef
-    author_login: tmsteck
-    author_url: https://github.com/tmsteck
-  - date: 2022-01-14 20:49:59.000000000 Z
-    message: Removed Figures, leaving the code. Added license, Removed testing jobs
-    url: https://github.com/kemperlab/Cartan_DMFT/commit/e80c74c2d250af37523f9fa5508246ed016ce89b
-    author_login: tmsteck
-    author_url: https://github.com/tmsteck
 - repo: QuantumComputingLab/f3cpp
   title: f3cpp
   owner: QuantumComputingLab

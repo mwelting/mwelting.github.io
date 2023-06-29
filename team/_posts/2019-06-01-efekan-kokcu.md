@@ -9,6 +9,7 @@ github:
 scholar:
 calendar:
 image: /images/team/efekan.jpg
+orcid: 0000-0002-7323-7274
 cv:
 ---
 
