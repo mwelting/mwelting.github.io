@@ -13,7 +13,7 @@
   <link href="/css/style.css" rel="stylesheet" media="screen">
 
 	<!-- Favicon -->
-	<link rel="shortcut icon" href="/images/icon.png"/>
+	<link rel="shortcut icon" href="/images/eltinglabfavicon.png"/>
 
 	<!-- Typekit -->
 	<script>
@@ -55,8 +55,8 @@
 			<div class="container">
 				{% if page.categories.first != 'home' %}
 				<a class="navbar-brand" href="/">
-					<img class="logo navbar-brand d-inline-block align-top ml-0 mr-1" src="/images/icon.png">
-					kemper lab
+					<img class="logo navbar-brand d-inline-block align-top ml-0 mr-1" src="/images/EltingLabLogo.png">
+					Elting Lab
 				</a>
 				{% else %}
 				<a class="navbar-brand" href="/">
@@ -101,23 +101,23 @@
 						<a class="mx-1" href="/page/outreach/">outreach</a>
 						</li>-->
 
-						{% if page.categories.first == 'code' %}
+						{% if page.categories.first == 'news' %}
 						<li class="nav-link active">
 						{% else %}
 						<li class="nav-link">
 						{% endif %}
-						<a class="mx-1" href="/projects/">code</a>
+						<a class="mx-1" href="/projects/">news</a>
 						</li>
 
-						<!--
+						
 						{% if page.categories.first == 'join' %}
 						<li class="nav-link active">
 						{% else %}
 						<li class="nav-link">
 						{% endif %}
-						<a class="mx-1" href="/page/join/">join</a>
+						<a style="color:green" class="mx-1" href="/page/join/">join</a>
 						</li>
-
+						<!--
 						{% if page.categories.first == 'contact' %}
 						<li class="nav-link active">
 						{% else %}
