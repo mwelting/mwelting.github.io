@@ -10,6 +10,9 @@ scholar:
 calendar:
 image: /images/team/MAB_photo.jpg
 cv:
+alumni: true
 ---
 
-I am using fluorescence microscopy to study k-fiber structure and dynamics. Outside the lab, I enjoy playing/watching sports and spending time outdoors.
+During Marc's time in the lab, he used fluorescence microscopy to study k-fiber structure and dynamics and the mechanical interaction between the S. pombe spindle and nuclear envelope. Outside the lab, I enjoyed playing/watching sports and spending time outdoors.
+
+Marc successfully defended his PhD in December 2022. He then started a position as a postdoctoral researcher in Karen Schindler's group at Rutgers University.
