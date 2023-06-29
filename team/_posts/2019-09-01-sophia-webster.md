@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Dr. Sophia Webster
-position: Postdoctoral Scholar
+position: Former Postdoctoral Scholar, 2019-2022
 handle: shwebste
 email: shwebste@ncsu.edu
 twitter:

@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Copeland Lachapelle
-position: Undergraduate Researcher
+position: Former Undergraduate Researcher, 2019-2022
 handle:
 email:
 twitter:

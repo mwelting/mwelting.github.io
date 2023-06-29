@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Dr. Abhi Sharma
-position: Currently Mod & Yield Engineer, Intel; Formerly Postdoctoral Scholar, Elting Lab
+position: Currently Mod & Yield Engineer, Intel; Formerly Postdoctoral Scholar, Elting Lab, 2021-2022
 handle: asharma
 email:
 twitter:

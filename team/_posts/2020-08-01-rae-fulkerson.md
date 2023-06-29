@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Rae Fulkerson
-position: Laboratory Technician
+position: Former Laboratory Technician
 handle: mrfulke
 email: mrfulke@ncsu.edu
 twitter:
