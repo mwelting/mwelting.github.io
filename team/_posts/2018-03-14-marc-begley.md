@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Marc Begley
-position: Graduate Student
+position: Currently Postdoc, Rutgers University; Formerly Graduate Student, Elting Lab, 2018-2022
 handle: mabegley
 email: mabegley@ncsu.edu
 twitter:
