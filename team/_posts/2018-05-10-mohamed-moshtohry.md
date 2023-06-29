@@ -10,6 +10,7 @@ scholar:
 calendar:
 image: /images/team/MAM_photo.jpg
 cv:
+alumni: true
 ---
 
 Mohamed Moshtohry, a physics PhD. student at NC State University. I got my bachelor's degree in Egypt at UST-ZC, in theoretical particle physics. My interest in biophysics sparked in my senior undergraduate year at Aboul-ela's lab, the Center of X-ray Determination of the Structure of Matter. We worked on modeling the folding mechanism of the SAM-I riboswitch, using X-ray crystallography along with stochastic simulations. So, I switched to biophysics in my PhD. believing that with the right mindset, you can answer the hardest questions, you just got to learn how to think, which I hope I learned in my undergraduate physics studies.
