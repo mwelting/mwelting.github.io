@@ -1,8 +1,7 @@
 ---
 layout: paper
 title: "Mitotic spindle: augmin-based bridges keep kinetochores in line"
-image: /images/papers/begley-currbio
-.png
+image: /images/papers/begley-currbio.png
 authors: "Begley MA, Elting MW"
 year: 2023
 ref: Begley and Elting, Current Biology 2023.
