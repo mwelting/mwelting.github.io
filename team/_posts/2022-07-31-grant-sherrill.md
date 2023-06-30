@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Grant Sherrill
-position: Currently Graduate Student, UT Knoxville; Formerly Undergraduate Researcher, Elting Lab, 2019-2022
+position: Currently Graduate Student, UT Knoxville; Undergraduate Researcher, Elting Lab, 2019-2022
 handle: grantsherrill
 email: mgsherri@ncsu.edu
 twitter:

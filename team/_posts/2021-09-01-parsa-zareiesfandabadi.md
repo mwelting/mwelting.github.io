@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Parsa Zareiesfandabadi
-position: Currently Graduate Student, Biophysics, Duke University; Formerly UG and Postbac Researcher, Elting Lab, 2018-2021
+position: Currently Graduate Student, Biophysics, Duke University; UG and Postbac Researcher, Elting Lab, 2018-2021
 handle: parsazareies
 email: pzareie@ncsu.edu
 twitter:
