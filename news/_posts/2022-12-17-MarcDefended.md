@@ -6,8 +6,12 @@ author: Mary Elting
 
 
 <br>
+
+
 <div style="max-width: 600px;">
-	![]({{ site.baseurl }}/images/news/marcGraduation.jpg)
+     <div class="media">
+          <img class="media-object" src="{{ site.baseurl }}/images/news/marcGraduation.jpg">
+     </div>
 </div>
 <i>Marc, Mary, and Pengning Xu (from the Weninger Lab at NCSU Physics) celebrating at the University Commencement ceremony/i>
 
