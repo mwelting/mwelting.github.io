@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Rae Fulkerson
-position: Former Laboratory Technician
+position: Laboratory Technician, Elting Lab, 2019-2020
 handle: mrfulke
 email: mrfulke@ncsu.edu
 twitter:

@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Ana Sofía Uzsoy
-position: Currently Graduate Student and Churchill Scholar, Cambridge University; Formerly Undergraduate Researcher, Elting Lab
+position: Currently Graduate Student and Churchill Scholar, Cambridge University; Undergraduate Researcher, Elting Lab, 2017-2021
 handle: amuzsoy
 email: amuzsoy@ncsu.edu
 twitter:

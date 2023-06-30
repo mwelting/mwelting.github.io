@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Shannon Harris
-position: Fomerly Laboratory Technician, Elting Lab
+position: Laboratory Technician, Elting Lab, 2019
 handle: shannonharris
 email: soharri2@ncsu.edu
 twitter:

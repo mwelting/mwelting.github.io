@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Elizabeth Davis
-position: Currently Graduate Student, UNC; Formerly Undergraduate Researcher, Elting Lab, 2018-2020
+position: Currently Graduate Student, UNC; Undergraduate Researcher, Elting Lab, 2018-2020
 handle: emdavis
 email: emdavis2@ncsu.edu
 twitter:
