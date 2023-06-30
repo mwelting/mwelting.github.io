@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Mohamed Moshtohry
-position: Graduate Student
+position: Graduate Student, Elting Lab, 2018-2022
 handle: mamoshtohry
 email: mamoshto@ncsu.edu
 twitter:
