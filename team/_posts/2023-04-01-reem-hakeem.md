@@ -8,7 +8,7 @@ twitter:
 github:
 scholar:
 calendar:
-image: /images/team/reemTCM.png
+image: /images/team/ReemTCM.jpg
 cv:
 alumni: 
 ---
