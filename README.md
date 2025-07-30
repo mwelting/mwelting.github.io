@@ -1,4 +1,4 @@
-# kemper lab research
+# elting lab research
 
 This website is a clone of the bedford lab website at Fred Hutch. You can find the original [here](https://github.com/blab/blotter).
 
