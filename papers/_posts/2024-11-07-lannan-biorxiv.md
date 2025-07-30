@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Fishnet mesh of centrin-Sfi1 drives ultrafast calcium-activated contraction of the giant cell Spirostomum ambiguum"
-image: /images/papers/begley-cytoskeleton.png
+image: /images/papers/blannan-biorxiv.jpg
 authors: "Lannan J, Floyd C, Xu LX, Yan C, Marshall WF, Vaikuntanathan S, Dinner AR, Honts JE, Bhamla S, Elting MW"
 year: 2024
 ref: Lannan, Floyd, Xu, Yan, Marshall, Vaikuntanathan, Dinner, Honts, Bhamla, and Elting, bioRxiv 2024.
